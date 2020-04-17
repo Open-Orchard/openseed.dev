@@ -27,8 +27,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'community',
-          activeBasePath: '/community',
+          href: 'https://hive.blog/trending/hive-152786',
           label: 'Community',
           position: 'left',
         },

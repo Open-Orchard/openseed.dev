@@ -18,7 +18,7 @@ const features = [
         applications that utilize digital assets to engage users and generate
         revenue.
       </>
-    )
+    ),
   },
   {
     title: <>Focus on What Matters</>,
@@ -28,12 +28,12 @@ const features = [
         OpenSeed is essentially a collection of scripts and utilities that
         enable developers to build their applications faster and at lower cost
         when compared to closed source or system exclusive tools. OpenSeed
-        achieves this by integrating its services with the HIVE blockchain
-        which is a stable, fast, and cost effective means of ensuring data
-        integrity while simultaneously providing a robust backbone for data
+        achieves this by integrating its services with the HIVE blockchain which
+        is a stable, fast, and cost effective means of ensuring data integrity
+        while simultaneously providing a robust backbone for data
         synchronization and long term data storage.
       </>
-    )
+    ),
   },
   {
     title: <>Combining the best of two worlds</>,
@@ -47,8 +47,8 @@ const features = [
         which are optimized for serving functions like these and interfacing
         with decentralized databases like HIVE.
       </>
-    )
-  }
+    ),
+  },
 ];
 
 function Feature({ imageUrl, title, description }) {

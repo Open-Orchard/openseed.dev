@@ -1,17 +1,18 @@
-import React from 'react';
-import Layout from '@theme/Layout';
+import React from "react";
+import Layout from "@theme/Layout";
 
 function Showcase() {
   return (
     <Layout title="Hello">
       <div
         style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          height: '50vh',
-          fontSize: '20px',
-        }}>
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          height: "50vh",
+          fontSize: "20px",
+        }}
+      >
         <p>
           Edit <code>pages/showcase.js</code> and save to reload.
         </p>
