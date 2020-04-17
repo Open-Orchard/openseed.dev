@@ -10,9 +10,9 @@ module.exports = {
     announcementBar: {
       id: "support_us", // Any value that will identify this message
       content:
-        'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-      backgroundColor: "#fafbfc", // Defaults to `#fff`
-      textColor: "#091E42", // Defaults to `#000`
+        'Disclaimer: This website is still in early stage of development, stay tuned for more updates!',
+      backgroundColor: "#1b1c28", 
+      textColor: "#ffffff",
     },
     navbar: {
       title: "OpenSeed",
